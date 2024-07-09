@@ -13,6 +13,9 @@ Unity, Blender
 
 강민우: 서버 개발 중
 
+## 발표 자료
+https://docs.google.com/presentation/d/1-PkDXtTe8WJLBh0L0E1lNPnP05oVCTNK/edit?usp=sharing&ouid=108133701958194528192&rtpof=true&sd=true
+
 ## 선배들 피드백
 - 구현된 기능의 퀄리티는 매우 좋으나 총기 발사와 같은 메인 기능의 구현이 필요함.
 - 기획에서 미흡한 면이 보임. 이 게임에서 플레이어의 목표는 무엇인지 정하는 것이 시급함.
